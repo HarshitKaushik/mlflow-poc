@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/harshitkaushik/workspace/dev/untitled/mlflow-poc/tutorial-linear-regression-model/mlruns/0/198e94acc8d5439cb9667164a2d7fd64/artifacts
+end_time: 1616599213092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 198e94acc8d5439cb9667164a2d7fd64
+run_uuid: 198e94acc8d5439cb9667164a2d7fd64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1616599213067
+status: 3
+tags: []
+user_id: harshitkaushik
